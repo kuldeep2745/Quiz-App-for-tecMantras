@@ -1,0 +1,27 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #40407a;
+  text-align: center;
+  color: #f8f8f8;
+}
+
+.quiz-title {
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.play-button {
+  padding: 10px 0px;
+  width: 280px;
+  font-size: 0.8rem;
+  background-color: #57b846;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 50px;
+  border: none;
+  cursor: pointer;
+}
